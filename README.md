@@ -76,18 +76,18 @@ Example configuration in `application.properties`:
 
 ## Screen Shot
 ### 1. **Home Page**
-   ![Home Page ]([path_to_your_screenshot.png](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/HomePage.png))
+   ![Home Page ](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/HomePage.png)
 
 ### 2. **Login Register for Job Seeker and Recruiter**
-   ![Register/Login Page]([path_to_your_screenshot.png](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/LoginPage_registerPage.png))
+   ![Register/Login Page](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/LoginPage_registerPage.png)
 
 ### 3. **Candidate Dashboard**
-   ![Candidate Dashboard Page]([path_to_your_screenshot.png](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/Candidate%20Dashboard.png))
+   ![Candidate Dashboard Page](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/Candidate%20Dashboard.png)
 
 ### 4. **Recruiter Dashboard**
-   ![Recruiter Dashboard Page]([path_to_your_screenshot.png](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/Recruiter%20Profile%20creation%20page.png))
+   ![Recruiter Dashboard Page](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/Recruiter%20Profile%20creation%20page.png)
 ### 5. **Post New Jobs**
-   ![Post a Job Page]([path_to_your_screenshot.png](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/post%20new%20job.png))
+   ![Post a Job Page](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/post%20new%20job.png)
 
 ### 6. **Job Details**
-   ![Job Details of a Job]([path_to_your_screenshot.png](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/Job%20Details%20Page'.png))
+   ![Job Details of a Job](https://github.com/flop-signing/jobsForCUETian/blob/6292e1f37700a8a688517708bd5a1e29163bfa87/photos/pages/Job%20Details%20Page'.png)
